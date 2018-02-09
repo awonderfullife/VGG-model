@@ -1,2 +1,2 @@
 # VGG_model
-python interface.py folder testImage
+python interface.py testImages
